@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_controller_menu"
+    app:startDestination="@+id/ncHome">
+
+    <fragment
+        android:id="@+id/ncHome"
+        android:name="com.example.movielistings.fragments.HomeFragment"
+        android:label="@string/hello_blank_fragment_home"
+        tools:layout="@layout/fragment_home"/>
+
+    <fragment
+        android:id="@+id/ncSearch"
+        android:name="com.example.movielistings.fragments.SearchFragment"
+        android:label="@string/hello_blank_fragment_home"
+        tools:layout="@layout/fragment_home"/>
+
+    <fragment
+        android:id="@+id/ncBlog"
+        android:name="com.example.movielistings.fragments.BlogFragment"
+        android:label="@string/hello_blank_fragment_home"
+        tools:layout="@layout/fragment_home"/>
+
+
+
+</navigation>

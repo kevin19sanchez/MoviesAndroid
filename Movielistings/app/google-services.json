@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "850304583294",
+    "project_id": "movielistings-51d55",
+    "storage_bucket": "movielistings-51d55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850304583294:android:80af86889bf446a4acfa2f",
+        "android_client_info": {
+          "package_name": "com.example.movielistings"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhqe15eyX7i_KcuYzjwZ3yWW5lvjXK4Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

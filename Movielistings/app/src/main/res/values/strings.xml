@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Movielistings</string>
+    <string name="title_movie">Acer Movie</string>
+
+    <!-- Variables del registro -->
+    <string name="title_register">Registro</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_pass">Contraseña</string>
+    <string name="btn_rsgiter">Regsitrarse</string>
+    <!-- Variables del registro -->
+
+    <!-- Variables del login -->
+    <string name="title_login">Iniciar Sesion</string>
+    <string name="hint_login_email">Correo</string>
+    <string name="hint_login_pass">Contraseña</string>
+    <string name="btn_login">Ingresar</string>
+    <string name="txt_account">Aun no tienes cuneta?</string>
+    <!-- Variables del login -->
+
+
+    <!-- Variables del menu -->
+    <string name="home">Inicio</string>
+    <string name="search">Buscar</string>
+    <string name="blog">Blog</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment_home">Bienvenido</string>
+    <string name="hello_blank_fragment_search">Buscar Peliculas</string>
+    <string name="hello_blank_fragment_blog">Comentar una pelicula</string>
+    <!-- Variables del menu -->
+
+</resources>
